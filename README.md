@@ -1,4 +1,4 @@
-# Assinatura de DFe com certificado A3
+# Assinatura de DFe com certificado A3 em NodeJS
 Foi difícil encontrar como assinar um DFe utilizando certificado A3, então criei este repositório para ter um exemplo mais "direto ao ponto". No código, eu apenas adiciono a assinatura em documentos de NFe e MDFe, então seria necessário ajustar para as particularidades dos outros documentos.
 
 Um agradecimento ao pessoal do [PeculiarVentures](https://github.com/peculiarventures) que criou e disponibilizou uma série de ferramentas para lidar com assinaturas, seja com certificado A1 ou A3.
